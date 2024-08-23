@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/react-expense-tracker/static/css/main.7acaea2f.css",
-    "main.js": "/react-expense-tracker/static/js/main.07d3183d.js",
+    "main.css": "/react-expense-tracker/static/css/main.545b1bae.css",
+    "main.js": "/react-expense-tracker/static/js/main.c9dd50fb.js",
+    "static/media/desktop-background.jpg": "/react-expense-tracker/static/media/desktop-background.4a585585ff5e33e518d4.jpg",
+    "static/media/icons.svg": "/react-expense-tracker/static/media/icons.53e69572f49f26a678381ae681a9a87b.svg",
     "index.html": "/react-expense-tracker/index.html",
-    "main.7acaea2f.css.map": "/react-expense-tracker/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-expense-tracker/static/js/main.07d3183d.js.map"
+    "main.545b1bae.css.map": "/react-expense-tracker/static/css/main.545b1bae.css.map",
+    "main.c9dd50fb.js.map": "/react-expense-tracker/static/js/main.c9dd50fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.545b1bae.css",
+    "static/js/main.c9dd50fb.js"
   ]
 }
