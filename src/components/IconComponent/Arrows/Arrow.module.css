@@ -1,0 +1,12 @@
+.arrowDiv {
+    width: 43px;
+    height: 43px;
+    background-color: #0EF387;
+    border-radius: 13px;
+    border: none;
+}
+
+.arrow {
+padding: 14px 15px;
+margin: 0;
+}
